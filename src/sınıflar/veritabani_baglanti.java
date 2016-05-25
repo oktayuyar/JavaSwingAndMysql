@@ -23,7 +23,7 @@ public class veritabani_baglanti {
     private String driver="com.mysql.jdbc.Driver";
     private String dbname="izin_otomasyon";
     private String username="root";
-    private String password="190323";
+    private String password="";
     
     public void baglan(){
         try {
